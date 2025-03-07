@@ -95,11 +95,21 @@ git clone https://github.com/medro25/Cube-Road-game.git
 - Improve obstacle generation.
 - Implement multiplayer support.
 - Add more levels and themes.
-- change the colour while swtiching between the screens
+- change the colour while swtiching between the levels
 
-  ## Screens
+  ## Screenshots
+  
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/0fa3557f-0525-4ef1-9efc-913579608a76" />
 
   <img width="300" alt="image" src="https://github.com/user-attachments/assets/e19e2a83-0a6a-4bd7-a0fd-06a59ea6b26b" />
+  <img width="300" alt="image" src="https://github.com/user-attachments/assets/81a0e68f-c706-4302-84d2-e67e8637899a" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/c7b7eaed-7ae6-4a67-9b07-96997aa127b3" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/d134d29d-bec7-4feb-b8f3-72de714339cc" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/6b1b81da-2275-4312-81f7-ac24371d0015" />
+
+
+
+
 
 
 
