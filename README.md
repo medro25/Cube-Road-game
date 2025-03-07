@@ -97,6 +97,10 @@ git clone https://github.com/medro25/Cube-Road-game.git
 - Add more levels and themes.
 - change the colour while swtiching between the screens
 
-## 📜 License
-This project is for educational purposes. Feel free to modify and expand it!
+  ## Screens
+
+  <img width="300" alt="image" src="https://github.com/user-attachments/assets/e19e2a83-0a6a-4bd7-a0fd-06a59ea6b26b" />
+
+
+
 
