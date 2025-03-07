@@ -79,7 +79,7 @@ Cube Road Game/
 ### **Clone the Repository**
 ```sh
 git clone https://github.com/medro25/Cube-Road-game.git
-
+```
 ### **Open in Unity**
 1. Open **Unity Hub**.
 2. Click **Open** and select the cloned project folder.
